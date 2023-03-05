@@ -1,5 +1,5 @@
-[npm package](https://www.npmjs.com/package/react-native-vector-icons)
-[search for icon](https://oblador.github.io/react-native-vector-icons/)
+- [npm package](https://www.npmjs.com/package/react-native-vector-icons)
+- [search for icon](https://oblador.github.io/react-native-vector-icons/)
 
 ```js
 import {useState} from 'react';
